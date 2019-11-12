@@ -3,3 +3,4 @@ form persetujuan ini hanya bisa terbuka dengan login sebgaai admin. dan hanya ak
 
 dan di index.php tolong buat hanya data yang berstatus aktif saja yang hanya tampil di index. sedangkan yang status non aktif tidak tampil.
 
+asd
